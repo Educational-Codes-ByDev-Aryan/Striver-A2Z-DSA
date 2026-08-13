@@ -47,7 +47,7 @@ int main()
     {
         cin >> arr[i];
     }
-    int largest = arr[0]; // first enterd number is the larges.
+    int largest = arr[0]; // first enterd number is the largest.
 
     for (int i = 1; i < 5; i++)
     {
